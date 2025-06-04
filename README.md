@@ -1,5 +1,5 @@
 # Avaliacao_logica_da_programacao
- Questões que foram dadas para resolver em linguagem C. Segue abaixo a descricção de cada código:
+ Questões que foram dadas para resolver em linguagem C. Segue abaixo a descrição de cada código:
 
 # Código: "alunos.c"
  Em diversas competições acadêmicas, como a Olimpíada Brasileira de Informática (OBI), uma certa quantidade de competidores se classifica de uma fase para a fase seguinte, garantindo uma das vagas disponíveis. Entretanto, normalmente essa quantidade é variável, pois dada uma certa quantidade mínima de classificados, é frequente que haja empate na última vaga de classificação. Neste caso, é comum que todos os competidores empatados na última colocação se classifiquem.
